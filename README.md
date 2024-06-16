@@ -1,3 +1,5 @@
+<img src = "banner.jpeg" width = "325px" align = "center">
+
 # Oiie, eu sou a Maiara 👋
 
 ##### 📚 Discente de Engenharia Química da UTFPR - Londrina
