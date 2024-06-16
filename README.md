@@ -1,4 +1,4 @@
-<img src = "banner.jpeg" width = "325px" align = "center">
+<img src = "banner.jpeg" width = "1280  x 640" align = "center">
 
 # Oiie, eu sou a Maiara 👋
 
